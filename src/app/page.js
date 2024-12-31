@@ -104,7 +104,7 @@ export default function Page() {
             Ready to Start Planning?
           </h2>
           <p className="text-xl text-gray-300 mb-8">
-            Join thousands of event planners who trust our platform
+            Join thousands of event planners who trust our platform Just One Step Forward
           </p>
           <Link href="/add">
             <button className="bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600 text-white font-semibold px-8 py-3 rounded-lg transform transition-all duration-300 hover:scale-105">
